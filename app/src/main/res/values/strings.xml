@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crazy Habits</string>
+    <string name="info">Information</string>
+    <string name="home">Home</string>
+    <string name="emotion">Emotion</string>
+    <string name="hello_there">Hello there…</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nav_emotionText">Feels good!</string>
+</resources>
